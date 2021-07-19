@@ -1,0 +1,26 @@
+
+
+
+              1   2                3     4   5    6    7     8     9     10    11     12                  13  14  15 16  17   18   
+
+     i        H                                                                                                               He
+     
+     ii       Li Be                                                                                        B  C   N  O   F    Ne
+  
+    iii       Na Mg                                                                                        Al Si  P  S   Cl   Ar
+
+     iv       K  Ca                Sc   Ti   V    Cr    Mn    Fe   Co    Ni    Cu     Zn                   Ga Ge  As Se  Br   Kr
+
+     v        Rb Sr                Y    Zr   Nb   Mo    Tc    Ru   Rh    Pd    Ag     Cd                   In Sn  Sb Te  I    Xe
+
+     vi       Cs Ba                La   Hf   Ta    W    Re    Os    Ir    Pt   Au     Hg                   Tl Pb  Bi Po  At   Rn
+
+    vii       Fr Ra                Ac   Rf   Db   Sg   Bh     Hs   Mt     Ds   Uuu Uub -  Uuq -  Uuh
+
+                       
+                                   Ce  Pr  Nd  Pm  Sm  Eu  Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu
+                                   Th  Pa  U   Np  Pu  Am  Cm  Bk  Cf  Es  Fm  Md  No  Lr
+                                   
+                                   
+                                   GROUP-Described in numbers
+                                   PERIODS-Described in Roman Numbers
